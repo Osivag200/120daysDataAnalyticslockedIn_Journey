@@ -1,18 +1,31 @@
 # 120daysDataAnalyticslockedIn_Journey
-## Day 8 Data Analytics  Build Journey 
-After spending the last two days reviewing my previous week (Day 6) and planning intentionally for the new one (Day 7), I kicked off a fresh project: Sales Performance Dashboard.
-Before starting, I took a step back to understand the business problem and the goal of the analysis. With that clarity, I dove into the dataset and walked through the essential foundational steps:
-🔹 Structured the data into a clean, organized table
-🔹 Checked for inconsistencies and carried out necessary cleaning
-🔹 Built a pivot table to explore patterns and relationships
-🔹 Identified the key business KPIs to focus on
-🔹 Created a date table to support time intelligence
-🔹 Wrote DAX measures to enable deeper insights and dynamic reporting
-This groundwork is setting a solid foundation for the dashboard to deliver meaningful and actionable insights.
-I am excited to keep building on this in the coming days!
+## Day 9 Data Analytics  Build Journey 
+
+I titled today's exercise: Deepening the Sales Performance Analysis.
+
+Building on the Sales Performance Dashboard I started yesterday, I moved into the next phase of the analysis—digging deeper to answer the core business questions identified.
+
+Today’s focus was on uncovering patterns, performance drivers, and customer behaviour through these key analysis components:
+
+🔹 Time Intelligence Analysis – Monthly trends, and year-over-year performance
+
+🔹 Customer Segmentation – Understanding who is driving revenue and how their behaviour differs
+
+🔹 Product Analysis – Identifying top-performing categories and contribution to overall sales
+
+🔹 Geographical Insights – Comparing performance across locations and regions
+
+These pieces are starting to form a clearer narrative of what’s happening in the business and why.
+
+Next step: bringing everything together into an insightful, decision-ready dashboard in the coming days.
+
 
 #DataAnalyticsLockedIn
+
 #DataAnalysis
+
 #ContinuousLearning
+
 #LearninginPublic
+
 #Datadashboard

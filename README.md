@@ -1,23 +1,27 @@
 # 120daysDataAnalyticslockedIn_Journey
-## Day 9 Data Analytics  Build Journey 
+## Day 10 Data Analytics  Build Journey 
 
-I titled today's exercise: Deepening the Sales Performance Analysis.
+I titled today's exercise: Bringing the Sales Performance Dashboard to Life
 
-Building on the Sales Performance Dashboard I started yesterday, I moved into the next phase of the analysis—digging deeper to answer the core business questions identified.
+Today was all about pulling the entire analysis together and transforming insights into a clear, compelling dashboard.
 
-Today’s focus was on uncovering patterns, performance drivers, and customer behaviour through these key analysis components:
+Here’s what I did:
 
-🔹 Time Intelligence Analysis – Monthly trends, and year-over-year performance
+✨ Dashboard wireframe: Laying out the structure and flow
+✨ Monthly trend chart: Highlighting performance over time
+✨ Supporting visuals: Building all additional charts for deeper insight
+✨ Layout design: Aligning and arranging every visual for clarity
+✨ Insight storytelling: Connecting the charts into a cohesive narrative
 
-🔹 Customer Segmentation – Understanding who is driving revenue and how their behaviour differs
+It’s exciting to see the pieces finally coming together.
 
-🔹 Product Analysis – Identifying top-performing categories and contribution to overall sales
+Next step: Showcasing the completed dashboard in the coming days. Stay tuned!
 
-🔹 Geographical Insights – Comparing performance across locations and regions
-
-These pieces are starting to form a clearer narrative of what’s happening in the business and why.
-
-Next step: bringing everything together into an insightful, decision-ready dashboard in the coming days.
+#DataAnalyticsLockedIn
+#DataAnalysis
+#ContinuousLearning
+#LearninginPublic
+#Datadashboard
 
 
 #DataAnalyticsLockedIn

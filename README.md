@@ -1,23 +1,31 @@
 ##Day 15 of my Data Analytics Build Journey 
+Day 16
 
-After spending the last two days reviewing my learning progress (Day 13) and mentally preparing for a fresh start (Day 14), I’m stepping into a new phase of the journey.
+Today, I continued working on my Xmas Gift Sales Analysis. I focused on a key business goal: improving profitability while monitoring store, product, and state performance, tracking essential metrics, and uncovering sales trends.
 
-This week, I’m taking on an unguided project—a chance to apply my skills independently and think like a true analyst.
+Here’s what I accomplished:
 
-I’ve chosen the Xmas Dataset to build a Christmas Gift Sales Dashboard.
-The holiday season is all about joy, giving, and meaningful connections, and I’m excited to translate that spirit into data storytelling.
+🔹 Structured the dataset into a proper table for efficient analysis
+🔹 Identified and cleaned inconsistencies to ensure data quality
+🔹 Built pivot tables to explore patterns and relationships
+🔹 Created a dedicated date table and established relationships to support time-intelligence analysis
+🔹 Calculated core performance KPIs, including:
+ 🔸 Total Revenue
+ 🔸 Total Cost
+ 🔸 Profit
+ 🔸Total Quantity
+ 🔸Average Tax Amount
+ 🔸 KPI card elements for quick insights
 
-The dataset is sourced from the #FP20Analytics
+Each step is becoming clearer and bringing me closer to a dashboard that tells a clear, actionable story.
 
-Over the next few days, I’ll be sharing:
+More updates on the pregress of the project will be shared
 
-🔸The analysis goals
-
-🔸My step-by-step approach
-
-🔸Insights uncovered from the data
-
-Looking forward to the learning ahead—stay tuned!
+#DataAnalyticsLockedIn
+#DataAnalysis
+#ContinuousLearning
+#LearninginPublic
+#Datadashboard
 
 #DataAnalyticsLockedIn
 #DataAnalysis

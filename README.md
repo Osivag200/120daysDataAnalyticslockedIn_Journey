@@ -1,17 +1,26 @@
-##Day 12 of my Data Analytics Build Journey 
+##Day 15 of my Data Analytics Build Journey 
 
-Today is about  Self-Evaluation— to assess my learning journey so far on the completed Sales performance dashboard (guided project) from Day 11
+After spending the last two days reviewing my learning progress (Day 13) and mentally preparing for a fresh start (Day 14), I’m stepping into a new phase of the journey.
 
-I took time to reflect on:
-🔹 What I’ve truly learned
-🔹 The skills I still need to strengthen
-🔹 How to apply these learnings more confidently using the tool
+This week, I’m taking on an unguided project—a chance to apply my skills independently and think like a true analyst.
 
-In the coming days, I’ll be revisiting the dataset—not as someone following a guided project, but as someone intentionally practicing to build mastery, consistency and clarity with one key goal —  GROWTH.
+I’ve chosen the Xmas Dataset to build a Christmas Gift Sales Dashboard.
+The holiday season is all about joy, giving, and meaningful connections, and I’m excited to translate that spirit into data storytelling.
+
+The dataset is sourced from the #FP20Analytics
+
+Over the next few days, I’ll be sharing:
+
+🔸The analysis goals
+
+🔸My step-by-step approach
+
+🔸Insights uncovered from the data
+
+Looking forward to the learning ahead—stay tuned!
 
 #DataAnalyticsLockedIn
-#Clarityand Growth
-#Consistency
 #DataAnalysis
+#Buildindependently
 #ContinuousLearning
 #LearninginPublic

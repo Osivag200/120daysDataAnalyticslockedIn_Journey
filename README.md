@@ -1,31 +1,33 @@
-##Day 15 of my Data Analytics Build Journey 
-Day 16
+##Day 17 of my Data Analytics Build Journey 
 
-Today, I continued working on my Xmas Gift Sales Analysis. I focused on a key business goal: improving profitability while monitoring store, product, and state performance, tracking essential metrics, and uncovering sales trends.
+After completing the core performance KPIs—
 
-Here’s what I accomplished:
+✅ Total Revenue
 
-🔹 Structured the dataset into a proper table for efficient analysis
-🔹 Identified and cleaned inconsistencies to ensure data quality
-🔹 Built pivot tables to explore patterns and relationships
-🔹 Created a dedicated date table and established relationships to support time-intelligence analysis
-🔹 Calculated core performance KPIs, including:
- 🔸 Total Revenue
- 🔸 Total Cost
- 🔸 Profit
- 🔸Total Quantity
- 🔸Average Tax Amount
- 🔸 KPI card elements for quick insights
+✅ Total Cost
 
-Each step is becoming clearer and bringing me closer to a dashboard that tells a clear, actionable story.
+✅ Total Profit
 
-More updates on the pregress of the project will be shared
+✅ Total Quantity
 
-#DataAnalyticsLockedIn
-#DataAnalysis
-#ContinuousLearning
-#LearninginPublic
-#Datadashboard
+✅ Average Tax Amount
+
+—along with their KPI card elements for quick insights, I moved on to the next layers of analysis:
+
+🔹 Product performance
+
+🔹 Customer segmentation
+
+🔹 Location performance
+
+🔹 Trend analysis
+
+One interesting discovery from the trend analysis:
+Sales activity occurred only within three months of the year—highlighting a strong seasonal pattern driven by the festive period.
+With all analytical components now taking shape, the next step is structuring the dashboard and bringing the story together.
+
+Excited to see how the final dashboard turns out!
+
 
 #DataAnalyticsLockedIn
 #DataAnalysis

@@ -1,32 +1,20 @@
-##Day 17 of my Data Analytics Build Journey 
+##Day 18 of my Data Analytics Build Journey 
 
-After completing the core performance KPIs—
+Today wasn’t about writing formulas, it was about designing the structure of my Xmas Gift dashboard.
 
-✅ Total Revenue
+I’ve learned that creating a dashboard goes far beyond placing visuals on a page. It’s about:
 
-✅ Total Cost
+🎯 Choosing the right components
 
-✅ Total Profit
+🎯 Guiding the viewer through a clear narrative
 
-✅ Total Quantity
+🎯 Presenting insights in a way that drives understanding and action
 
-✅ Average Tax Amount
+I’m currently refining my presentation wireframe to build a layout that truly tells a story and not just displays charts.
 
-—along with their KPI card elements for quick insights, I moved on to the next layers of analysis:
+I never realized how much thought, creativity, and communication skill go into dashboard presentation — but I’m enjoying the process of mastering it.
 
-🔹 Product performance
-
-🔹 Customer segmentation
-
-🔹 Location performance
-
-🔹 Trend analysis
-
-One interesting discovery from the trend analysis:
-Sales activity occurred only within three months of the year—highlighting a strong seasonal pattern driven by the festive period.
-With all analytical components now taking shape, the next step is structuring the dashboard and bringing the story together.
-
-Excited to see how the final dashboard turns out!
+I will be sharing to updates coming soon as the dashboard takes shape
 
 
 #DataAnalyticsLockedIn

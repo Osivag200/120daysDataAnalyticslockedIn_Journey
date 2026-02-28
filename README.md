@@ -1,24 +1,23 @@
-##Day 18 of my Data Analytics Build Journey 
+##Day 19 of my Data Analytics Build Journey 
 
-Today wasn’t about writing formulas, it was about designing the structure of my Xmas Gift dashboard.
+Today, I began placing the visuals onto the wireframe and added a slicer for user interaction (not connected yet). This stage demands deep thinking, intentionality, and attention to detail.
 
-I’ve learned that creating a dashboard goes far beyond placing visuals on a page. It’s about:
+As I worked, I kept asking myself:
 
-🎯 Choosing the right components
+🔹 Does the visual arrangement guide the viewer naturally?
 
-🎯 Guiding the viewer through a clear narrative
+🔹 What narrative is each visual contributing to the whole story?
 
-🎯 Presenting insights in a way that drives understanding and action
+🔹 Am I truly communicating insights—or just displaying charts?
 
-I’m currently refining my presentation wireframe to build a layout that truly tells a story and not just displays charts.
+It’s still a work in progress, and refinement is inevitable at this stage. But each adjustment brings the dashboard closer to a clear, compelling story.
 
-I never realized how much thought, creativity, and communication skill go into dashboard presentation — but I’m enjoying the process of mastering it.
-
-I will be sharing to updates coming soon as the dashboard takes shape
-
+I am excited to see how it will evolve
 
 #DataAnalyticsLockedIn
 #DataAnalysis
-#Buildindependently
 #ContinuousLearning
 #LearninginPublic
+#DatadashboardLive
+#DashboardLayout
+#VisualStorytelling

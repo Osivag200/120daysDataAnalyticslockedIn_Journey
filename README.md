@@ -1,4 +1,4 @@
-##Day 20 of my Data Analytics Build Journey 
+##Day 22 of my Data Analytics Build Journey 
 
 After a long break filled with unexpected hurdles, I’m excited to share that I’ve finally completed my Christmas Gift Sales Dashboard. 
 
